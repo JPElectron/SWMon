@@ -7,7 +7,7 @@ SWMon (short for Switch Monitor) connects with a WebRelay over the network, when
 - change the configuration of a firewall/router/switch (via plink)
 - start or stop a Windows service
 
-SWMon can also change the function of DNS Redirector, examples and documentation available here.
+SWMon can also change the function of DNS Redirector, examples/documentation available at http://jpelectron.com/sample/JPElectron/Switch%20over%20Ethernet/
 
 Also included: (alternate service name, in order to run multiple instances on the same server)
 - SWMon2 v1.0.0.1
