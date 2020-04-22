@@ -19,12 +19,16 @@ Tested on Windows XP, Vista, 7, 8, 8.1 and Server 2003, 2008, 2012
 
 This program runs as a service; without any GUI, taskbar, or system tray icon.
 
-Installation:
+<b>Installation:</b>
 
 1) Ensure the Microsoft .NET Framework 4.x is installed
 2) Run swmonsetup.msi and follow the wizard
 3) Modify C:\SWMON\swmon.ini as indicated (see comments within the file)
 
-Usage:
+<b>Usage:</b>
 
 It is strongly suggested you specify a unique/strong password for webrelay control. If you need to allow anonymous control and still have this program monitor the relay status, set Password=* in swmon.ini to bypass the need to specify a password.
+
+<b>Related Links:</b>
+
+WebRelay from http://www.controlbyweb.com/webrelay
